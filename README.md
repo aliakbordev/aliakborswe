@@ -1,7 +1,4 @@
-## Hi there 👋
-## I'm Muhammad Ali Akbor
-
-
+<h1 align="center">Hi there 👋 I'm Muhammad Ali Akbor</h1>
 <h3 align="center">A MERN stack Developer from Bangladesh </h3>
 <br/>
 <div align="center">
@@ -15,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
