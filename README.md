@@ -1,5 +1,13 @@
 ## Hi there 👋
+<h1 align="center">Hi There, I'm Muhammad Ali Akbor 👋</h1>
 
+<h3 align="center">A MERN stack Developer from Bangladesh </h3>
+<br/>
+<div align="center">
+
+![Ali](gitartwork.svg)
+
+</div>
 <!--
 **aliakborswe/aliakborswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
