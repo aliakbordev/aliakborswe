@@ -25,9 +25,9 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe" alt="aliakborswe" style="height: 200px; display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style="height: 200px; display: inline-block;" />
+<div >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe" alt="aliakborswe" style="width: 48%; height: 200px; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style="width: 48%; height: 200px; display: inline-block;" />
 </div>
 
 
