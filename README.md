@@ -18,6 +18,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/aliakborswe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-akbor" height="30" width="40" /></a>
 </p>
-<p width="50%"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe&" alt="aliakborswe" /></p>
-<p width="50%"><img align="right" src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" /></p>
+<p width="48%"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe&" alt="aliakborswe" /></p>
+<p width="48%"><img align="right" src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" /></p>
 
