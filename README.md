@@ -24,6 +24,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe" alt="aliakborswe" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe" alt="aliakborswe" style="width: 48%; display: inline-block; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style="width: 48%; display: inline-block; height: 200px;" />
 </div>
