@@ -33,20 +33,15 @@
 </div>
 
 
-  <div>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakborswe&show_icons=true&locale=en&layout=compact" alt="aliakborswe"/> 
-  </div>
-
-  <div align="left">
-    <h3>Top Repositories:</h3>
-    <h6>
-      <a href="https://github.com/aliakborswe/Deep-dive-into-Python" target="_blank">
-         <img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">Deep-dive-into-Python</a>
-    </h6>
-    <h6>
-      <a href="https://github.com/aliakborswe/Deep-dive-into-JavaScript" target="_blank">
-          <img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">Deep-dive-into-JavaScript</a>
-    </h6>
+<h2>Top Repositories: </h2>
+<h6>
+    <a href="https://github.com/aliakborswe/Deep-dive-into-Python" target="_blank">
+      <img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">Deep-dive-into-Python</a>
+</h6>
+<h6>
+    <a href="https://github.com/aliakborswe/Deep-dive-into-JavaScript" target="_blank">
+      <img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">Deep-dive-into-JavaScript</a>
+</h6>
 
     
 
