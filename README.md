@@ -27,19 +27,19 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="40"/></a>
 </p>
 
-<div >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe" alt="aliakborswe" style="width: 48%; height: 200px; display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style="width: 48%; height: 200px; display: inline-block;" />
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe" alt="aliakborswe" style="width: 45%; height: 200px; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style="width: 45%; height: 200px; display: inline-block;" />
 </div>
 
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakborswe&show_icons=true&locale=en&layout=compact" alt="aliakborswe" />
-  <div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakborswe&show_icons=true&locale=en&layout=compact" alt="aliakborswe" style="width: 40%; display: inline-block;"/>
+  <div style="width: 50%; display: inline-block;">
     <h3 align="left">Top Repositories:</h3>
     <div align="left">
       <p>
-        <a href="https://github.com/aliakborswe/Deep-dive-into-Python" target="_blank" style="text-decoration: none;">
+        <a href="https://github.com/aliakborswe/Deep-dive-into-Python" target="_blank">
          <img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
          <strong align="left">Deep-dive-into-Python</strong>
         </a>
