@@ -36,9 +36,9 @@
   <div>
     <h3 align="left">Top Repositories:</h3>
     <p align="left">
-  <a href="https://github.com/aliakborswe/repo1" target="_blank"><strong>Project 1</strong></a>: Description of the project
+  <a href="https://github.com/aliakborswe/Deep-dive-into-Python" target="_blank"><strong>Project 1</strong></a>: Deep dive into Python
   <br/>
-  <a href="https://github.com/aliakborswe/repo2" target="_blank"><strong>Project 2</strong></a>: Description of the project
+  <a href="https://github.com/aliakborswe/Deep-dive-into-JavaScript" target="_blank"><strong>Project 2</strong></a>: Deep-dive-into-JavaScript
   <br/>
 </p>
   </div>
