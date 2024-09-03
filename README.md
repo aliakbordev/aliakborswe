@@ -35,10 +35,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakborswe&show_icons=true&locale=en&layout=compact" alt="aliakborswe" />
   <div>
     <h3 align="left">Top Repositories:</h3>
-    <ol align="left">
-      <li><a href="https://github.com/aliakborswe/Deep-dive-into-Python" target="_blank"><strong>Deep-dive-into-Python</strong></a></li>
-      <li><a href="https://github.com/aliakborswe/Deep-dive-into-JavaScript" target="_blank"><strong>Deep-dive-into-JavaScript</strong></a></li>
-    </ol>
+    <p align="left">
+      <a href="https://github.com/aliakborswe/Deep-dive-into-Python" target="_blank" style="text-decoration: none;"><strong>Deep-dive-into-Python</strong></a>
+      <a href="https://github.com/aliakborswe/Deep-dive-into-JavaScript" target="_blank" style="text-decoration: none;"><strong>Deep-dive-into-JavaScript</strong></a>
+    </p>
   </div>
 </div>
 
