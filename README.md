@@ -32,11 +32,12 @@
 
 
 
-<p align="left">
-  <p>
+
+
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakborswe&show_icons=true&locale=en&layout=compact" alt="aliakborswe"/>
-  </p>
-  <p>
+
+
+
     <h3 align="left">Top Repositories:</h3>
     <div align="left">
       <p>
@@ -52,6 +53,6 @@
         </a>
       </p>
     </div>
-  </p>
-</p>
+
+
 
