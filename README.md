@@ -28,13 +28,11 @@
 </p>
 
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe" alt="aliakborswe" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style=" height: 200px;" />
-</p>
 
 
-<p>
+
+
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakborswe&show_icons=true&locale=en&layout=compact" alt="aliakborswe"/>
   <p>
     <h3 align="left">Top Repositories:</h3>
