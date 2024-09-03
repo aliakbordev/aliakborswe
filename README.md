@@ -26,13 +26,17 @@
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40"/></a>  
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="40"/></a>
 </p>
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe" alt="aliakborswe" style="width: 45%; height: 200px; display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style="width: 45%; height: 200px; display: inline-block;" />
-</div>
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakborswe&show_icons=true&locale=en&layout=compact" alt="aliakborswe" style="width: 48%; display: inline-block;"/>
-  <div style="width: 48%; display: inline-block;">
+
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakborswe" alt="aliakborswe" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliakborswe&show_icons=true&locale=en" alt="aliakborswe" style=" height: 200px;" />
+</p>
+
+
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliakborswe&show_icons=true&locale=en&layout=compact" alt="aliakborswe"/>
+  <p>
     <h3 align="left">Top Repositories:</h3>
     <div align="left">
       <p>
@@ -48,6 +52,6 @@
         </a>
       </p>
     </div>
-  </div>
-</div>
+  </p>
+
 
